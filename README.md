@@ -52,7 +52,9 @@ add_action( 'cmb2_init', 'register_metabox' );
 > Paste above code in function.php or use example-functions.php as CMB suggest
 
 **Now, Below code will unset default tabs and adds new tab field in single product page template**
+
 Paste below code in function.php
+
 ```
 /**
  * Remove default tab
