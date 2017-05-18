@@ -1,7 +1,7 @@
 # Modify Product Tab - WooCommerce
 Remove default tabs and add new tabs using CMB2 metabox - WooCoomerce
 
-** Customize Product Tabs with [CMB2](https://github.com/CMB2/CMB2) Repeater **
+**Customize Product Tabs with [CMB2](https://github.com/CMB2/CMB2) Repeater**
 >Create repeater field using cmb2.
 
 ``` php
@@ -51,7 +51,7 @@ add_action( 'cmb2_init', 'register_metabox' );
 > Paste above code in function.php or use example-functions.php as CMB suggest
 
 ```
-** Now, Below code will unset default tabs and adds new tab field in single product page template **
+**Now, Below code will unset default tabs and adds new tab field in single product page template**
 Paste below code in function.php
 ```
 /**
